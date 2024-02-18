@@ -1,9 +1,3 @@
-# Base information
-baseURL = "https://example.com"
-languageCode = "en-gb"
-title = "Sam Robbins"
-googleAnalytics = ""
-
 [module]
 [[module.imports]]
     path = 'github.com/samrobbins85/hugo-developer-portfolio'
