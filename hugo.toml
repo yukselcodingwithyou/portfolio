@@ -1,13 +1,12 @@
 # Base information
 baseURL = "https://example.com"
 languageCode = "en-gb"
-title = "Yüksel Özdemir"
+title = "Sam Robbins"
 googleAnalytics = ""
-theme="hugo-developer-portfolio"
 
 [module]
-  [[module.imports]]
-    path = "github.com/samrobbins85/hugo-developer-portfolio"
+[[module.imports]]
+    path = 'github.com/samrobbins85/hugo-developer-portfolio'
 
 # Plugins
 [params.plugins]
